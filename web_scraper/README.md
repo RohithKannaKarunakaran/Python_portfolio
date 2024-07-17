@@ -14,7 +14,7 @@ This project involves web scraping dog breed information from a list of URLs usi
 To use this project, you need to have Python installed on your system. Additionally, you need to install the required libraries using pip.
 
 ```bash
-pip install beautifulsoup4 pandas requests
+pip install -r requirements.txt
 ```
 
 ## Usage
