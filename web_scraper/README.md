@@ -21,13 +21,13 @@ pip install -r requirements.txt
 
 1. **Prepare the Input CSV File:**
 
-   Ensure you have a CSV file named `dog_breeds.csv` containing two main columns and other columns:
+   Ensure you have a CSV file named `breeds.csv` containing two main columns and other columns:
    - `breed`: The name of the dog breed.
    - `url`: The URL of the web page containing details about the breed.
 
 2. **Run the Web Scraping Script:**
 
-   Execute the provided script `scrape_dog_breeds.py` to scrape data from the provided URLs.
+   Execute the provided script `main.ipynb` to scrape data from the provided URLs.
 
    ```bash
    main.ipynb
@@ -35,7 +35,7 @@ pip install -r requirements.txt
 
 3. **Output:**
 
-   The script will generate a CSV file named `dog_breeds_info.csv` containing the following columns:
+   The script will generate a CSV file named `outputs.csv` containing the following columns:
    - `breed`: The name of the dog breed.
    - `image_url`: The URL of the dog breed's image.
    - `description`: A paragraph describing the dog breed.
