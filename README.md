@@ -23,8 +23,8 @@ This portfolio includes a diverse set of projects, ranging from data analysis an
 - **Technologies:** Python, scikit-learn, pandas, matplotlib
 - **Directory:** `projects/Kmeans`
 
-### 2. Web Scraper for E-commerce Sites
-- **Description:** A web scraping project that extracts product information from e-commerce websites.
+### 2. Web Scraper 
+- **Description:** A web scraping project that extracts image and dog bread details from websites.
 - **Technologies:** Python, BeautifulSoup, requests
 - **Directory:** `projects/web_scraper`
 
