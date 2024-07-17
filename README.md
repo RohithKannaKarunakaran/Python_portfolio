@@ -9,7 +9,7 @@ Welcome to my Python Portfolio! This repository showcases various projects I hav
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Project Structure](#project-structure)
+<!-- [Project Structure](#project-structure)-->
 - [Contributing](#contributing)
 
 ## Introduction
@@ -54,7 +54,7 @@ To run the projects in this portfolio, you will need Python installed along with
     cd projects/project_name
     ```
 2. Follow the instructions in the project-specific README file to run the project.
-
+<!--
 ## Project Structure
 
 ```
@@ -70,7 +70,7 @@ Each project directory contains:
 - Source code
 - README.md with project-specific details and instructions
 - Any additional resources required for the project
-
+-->
 ## Contributing
 
 Contributions are welcome! If you have any improvements or new projects to add, please fork the repository and submit a pull request.
