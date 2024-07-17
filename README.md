@@ -9,9 +9,8 @@ Welcome to my Python Portfolio! This repository showcases various projects I hav
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Usage](#usage)
-<!-- [Project Structure](#project-structure)-->
 - [Contributing](#contributing)
-
+<!-- [Project Structure](#project-structure)-->
 ## Introduction
 
 This portfolio includes a diverse set of projects, ranging from data analysis and machine learning to web development and automation. Each project includes a detailed explanation, source code, and instructions for running the code.
