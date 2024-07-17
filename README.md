@@ -18,7 +18,7 @@ This portfolio includes a diverse set of projects, ranging from data analysis an
 
 ## Projects
 
-### 1. Customer Segmentation using KMeans
+### 1. KMeans
 - **Description:** A project that segments customers based on their annual income and spending score using the KMeans clustering algorithm.
 - **Technologies:** Python, scikit-learn, pandas, matplotlib
 - **Directory:** `projects/Kmeans`
